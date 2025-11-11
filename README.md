@@ -1,6 +1,6 @@
 # Fake News Detection using Deep Learning
 
-## 📋 Project Overview
+##  Project Overview
 
 This project implements a **Fake News Detection System** using deep learning techniques to classify news articles as either **Real** or **Fake**. The system combines traditional machine learning approaches (TF-IDF vectorization) with deep neural networks to achieve high accuracy in detecting misinformation.
 
@@ -9,7 +9,7 @@ This project implements a **Fake News Detection System** using deep learning tec
 **Environment:** Google Colab  
 **Dataset:** Kaggle Fake News Dataset
 
-## 🎯 Objective
+##  Objective
 
 The primary goal is to develop an automated system that can:
 - Analyze news article content (title + text)
@@ -17,7 +17,7 @@ The primary goal is to develop an automated system that can:
 - Classify articles as Real (1) or Fake (0) using deep neural networks
 - Provide reliable predictions for new, unseen news articles
 
-## 📊 Dataset Information
+##  Dataset Information
 
 #### Source: [Kaggle Fake News Dataset](https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets)
 
@@ -30,7 +30,7 @@ The primary goal is to develop an automated system that can:
 - **Text:** Full article content
 - **Label:** 0 (Fake) or 1 (Real)
 
-## 🛠️ Implementation
+##  Implementation
 
 1. **Data Preprocessing**
    - Text cleaning and normalization
@@ -56,7 +56,7 @@ The primary goal is to develop an automated system that can:
    - **Batch Size:** 64
    - **Validation Split:** 20%
 
-## 💻 Running the Project
+## Running the Project
 
 #### Option 1: Google Colab (Recommended)
 1. Upload the Jupyter notebook (`FakeNewsProject.ipynb`) to Google Colab
@@ -68,7 +68,7 @@ The primary goal is to develop an automated system that can:
 2. Ensure dataset files are in the correct path
 3. Execute all cells
 
-## 📈 Model Performance
+##  Model Performance
 
 The model achieves high accuracy in distinguishing between real and fake news articles through:
 
@@ -77,7 +77,7 @@ The model achieves high accuracy in distinguishing between real and fake news ar
 - **Deep Learning:** Multi-layer neural network with dropout for regularization
 - **Evaluation Metrics:** Classification report and confusion matrix analysis
 
-## 🔍 Key Features
+##  Key Features
 
 ### 1. **Comprehensive Text Preprocessing**
 - Lowercase conversion
@@ -101,7 +101,7 @@ The model achieves high accuracy in distinguishing between real and fake news ar
 - Distribution analysis of dataset
 - Performance metrics visualization
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 FakeNewsProject/
@@ -113,7 +113,7 @@ FakeNewsProject/
 ├── True.csv                 # True news dataset
 ```
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 This project demonstrates proficiency in:
 - **Deep Learning:** Neural network architecture design and training
@@ -122,7 +122,7 @@ This project demonstrates proficiency in:
 - **Data Science:** Data analysis, visualization, and interpretation
 - **Python Programming:** Libraries like TensorFlow, scikit-learn, pandas
 
-## 📊 Results and Insights
+##  Results and Insights
 
 The project successfully demonstrates:
 - Effective fake news detection using deep learning
@@ -132,7 +132,7 @@ The project successfully demonstrates:
 
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **IBM** for providing the deep learning course and project opportunity
 - **Kaggle** for the fake news dataset
@@ -140,5 +140,6 @@ The project successfully demonstrates:
 - **Open Source Community** for the various libraries used
 
 ---
+
 
 

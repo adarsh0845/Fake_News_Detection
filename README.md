@@ -141,4 +141,4 @@ The project successfully demonstrates:
 
 ---
 
-**Note:** This project is submitted as part of IBM's Deep Learning course internal assessment. The implementation showcases practical application of deep learning concepts in solving real-world problems like misinformation detection.
+

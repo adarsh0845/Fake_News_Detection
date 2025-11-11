@@ -140,6 +140,26 @@ The project successfully demonstrates:
 - **Open Source Community** for the various libraries used
 
 ---
+##🧾 Footer
+
+Developed with 
+👨‍💻 Team Members:
+Adarsh kumar
+
+    🎓 B.Tech Computer Science (Data Science & AI)
+    2023101011501714
+
+Sumit Raj Singh
+
+    🎓 B.Tech Computer Science (Data Science & AI)
+    202310101150718
+
+Akansha Verma
+
+    🎓 B.Tech Computer Science (Data Science & AI)
+    202310101150711
+
+
 
 
 
